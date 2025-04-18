@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-server",
+  "version": "1.0.0",
+  "description": "web test",
+  "main": "server.js",
+  "author": "eric",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "http": "latest"
+  }
+}
